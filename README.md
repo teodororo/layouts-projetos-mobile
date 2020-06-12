@@ -1,2 +1,2 @@
-# layouts-projetos-mobile
-Templates de aplicações mobile utilizando Adobe XD 
+# Layouts para aplicativos mobile 
+Repositório para guardar meus projetos UX/UI. 
